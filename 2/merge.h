@@ -1,3 +1,6 @@
+#ifndef _ALGORITHMS_MERGE_H
+#define _ALGORITHMS_MERGE_H
+
 #include <cassert>
 #include <vector>
 
@@ -50,3 +53,5 @@ public:
     return true;
   }
 };
+
+#endif
